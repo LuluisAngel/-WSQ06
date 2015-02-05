@@ -6,6 +6,7 @@ Here's the code
       #include <cstdlib>
       #include <ctime>
       
+      // Luis Angel Aguilar Carrillo
       
       using namespace std;
       
