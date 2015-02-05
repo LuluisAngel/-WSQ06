@@ -16,7 +16,7 @@ Here's the code
       
       	do {
       
-      		cout << "Introduce un numero entre 1 y 100. Tienes " << (5-intentos) << " oportunidades para acertar." << endl;
+      		cout << "Introduce un numero entre 1 y 10. Tienes " << (5-intentos) << " oportunidades para acertar." << endl;
       		cin >> y;
       
       		intentos = intentos+1;
